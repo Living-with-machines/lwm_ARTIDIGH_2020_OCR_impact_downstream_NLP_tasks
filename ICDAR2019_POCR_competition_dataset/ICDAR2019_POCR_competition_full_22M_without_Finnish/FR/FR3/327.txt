@@ -1,0 +1,3 @@
+[OCR_toInput] Unit*: 2 ■ Balance: 1 • Ticket: 158 DATE: 18/06/2017 HEURE: 14:4^ ' VENDEUR: 2 kg €/kg € Unité O 0,665 2,80 1,86 Unité 2 Pie ce + 2,60 0,270 3,20 0,86 0,375 3,50 1,31 4 Articles TDTÂÜ 67631 1 EURO = 6,55957 F Total en FRF 43,50 F 
+[OCR_aligned] Unit*: 2 ■ Balance: 1 • Ticket: 158 DATE: 18/06/2017 HEURE: 14:4^ ' VENDEUR: 2 kg €/kg € Unité O 0,665 2,80 1,86 Unité 2 Pie ce + 2,60 0,270 3,20 0,86 0,375 3,50 1,31 4 Articles TDT@ÂÜ 67631 1 EURO = 6,55957 F Total en FRF 43,50 F 
+[ GS_aligned] Unité: 2 - Balance: 1 - Ticket: 158 DATE: 18/06/2017 HEURE: 14:4@@4 VENDEUR: 2 kg €/kg € Unité O 0.665 2,80 1,86 Unité 2 Pie@ce + 2.60 0.270 3,20 0,86 0.375 3,50 1,31 4 Articles TOTAL: 6,63@ 1 EURO = 6.55957 F Total en FRF 43.50 F 

@@ -1,0 +1,3 @@
+[OCR_toInput] Fmik-Tiailitm Tel: 62 35 55 12 10 U4 mi WA 2| w 2 mm kg €/kg € PUMME 1, 100 1,20 1 32 ENDIVE 0,805 3,00 2,42 2 Art. # CHANTAL Mm c i Pli vut i c v i -, i Le 
+[OCR_aligned] F@mi@k-Tia@ilitm Tel: 62 35 55 12 1@@0@ U4@@@@@ mi WA 2| w @2 @@@mm kg €/kg € PUMME 1, 100 1,20 1 32 ENDIVE 0,805 3,00 2,42 2 Art.@@@@@@@@@ # CHANTAL Mm c i Pli vut i c v i -, i Le 
+[ GS_aligned] Fruits-Tradition Tel: 02 38 55 12 18 05 04 2017 17 54 2(1) #2 T0185 kg €/kg € POMME 1, 100 1,20 1,32 ENDIVE 0,805 3,00 2,42 2 Art. Tot 3,74 # CHANTAL Merc@i @de vot@@re v@i@@@si@te 

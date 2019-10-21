@@ -1,0 +1,3 @@
+[OCR_toInput] GENERALE D'OPTIQUE Ticket : 0040 . 25/01/2017 00:00 Vendeur : MAXIME.C [AR EASYBALANCE 60UL :a^ reste à régler REGLEMENTS Mtr mtl âS piTE 
+[OCR_aligned] GENERALE D'OPTIQUE Ticket : 0040 . 25/01/2017 00:00 Vendeur : MAXIME.@@C@@@@@@@@@@@@ @@[AR EASYBALANCE 6@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@0@@@@@@@UL@@@@@@@@@ @@:a^ reste à régler@@@@@@ REGLEMENT@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@S@@@@@@@@@@ M@@@@@tr @@mtl @âS@@@@@ @@@@piT@E 
+[ GS_aligned] GENERALE D’OPTIQUE Ticket : 0040@@ 25/01/2017 00:00 Vendeur : MAXIME.C Client : -- 1 IWEAR EASYBALANCE 60ML 2,50 TOTAL TTC 2,50  TVA 20.00% 0,42 TOTAL TVA 0,42 TOTAL H.T 2,08 Total reste à régler 2,50  REGLEMENTS Espèce 2,50 REGLE 2,50 Rendu 0,00 SOLDE 0,00  MERCI DE VOTRE VISITE A BIENTOT ! 

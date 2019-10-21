@@ -1,0 +1,3 @@
+[OCR_toInput] Charcuterie Pannetier Marché Centrai La Rochelle Ray. 1 Balance 1 # 036320 30 04 2017 8:25:00 3010/1 Uend 2 rri g _ .. Boudin aux pommes 0,142 21,80 3,10 ',#« *#• «*«' 1 Art Total 30 04 2017 1:25:03 CAROLINE Merci 
+[OCR_aligned] Charcuterie Pannetier Marché Centrai La Rochelle Ray. 1 Balance 1 # 036320 30 04 2017 8:25:00 3010/1 Uend@ 2 rri g _ .. Boudin aux pommes 0,142 21,80 3,10 ',#« *#• «*«' 1 Art Total@@ 3@@0 @@@04 2017 1:25:03 CAROLINE Merci 
+[ GS_aligned] Charcuterie Pannetier Marché Central La Rochelle Ray. 1 Balance 1 # 096320 30.04.2017 8:25:00 3010/1 Vend. 2 @kg €/kg € Boudin aux pommes 0,142 21,80 3,10@@@@@@@@@@@@@@ 1 Art Total € 3,10 30.04.2017 8:25:03 CAROLINE Merci 

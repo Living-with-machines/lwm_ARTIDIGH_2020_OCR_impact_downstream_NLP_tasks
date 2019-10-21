@@ -1,0 +1,3 @@
+[OCR_toInput] Donné à Jmages, l'an de grace mil ccc. lxveuf et de nostre regne le viie, ou mois d'aoust Ainsi signé, par le roy en se resst. . Beueaument. Bond. Vsa.
+[OCR_aligned] Donné à J@m@ages, l'an de grace mil ccc. lx@@veuf@ et de nostre regne le viie, ou mois d'aoust@ Ainsi signé@@@, par le roy en se@ re@@sst. . Beueaument. B@ond@@@. V@sa.@
+[ GS_aligned] Donné à Jumieges, l'an de grace mil ccc.@lx. neuf, et de nostre regne le v@ie, ou mois d'aoust. Ainsi signées : Par le roy en ses Requestes. Reneaumont. Blondeau. Visa. 

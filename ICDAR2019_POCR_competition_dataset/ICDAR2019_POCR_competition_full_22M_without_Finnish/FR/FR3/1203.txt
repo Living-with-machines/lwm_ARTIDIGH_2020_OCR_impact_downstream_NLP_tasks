@@ -1,0 +1,3 @@
+[OCR_toInput] CHEZ ABDEL TEL 06 99 00 20 44 Balancé: 1 Client: 97 Date : 24/06/2017 10:42 Vendeur : 6 Rayon 1 - Num Ticket : 217 kg € /kg € CERISE O, 995 4, 50 4, 48 TOTAL: 4,48 1 transaction(s) 1 Article(+) 
+[OCR_aligned] CHEZ ABDEL TEL 06 99 00 20 44 Balancé: 1 Client: 97 Date : 24/06/2017 10:42 Vendeur : 6 Rayon@@ 1 - Num Ticket : 217 kg € /kg € CERISE O, 995 4, 50 4, 48 TOTAL: 4,48 1 transaction(s) 1 Article(+) 
+[ GS_aligned] CHEZ ABDEL TEL 06 99 00 20 44 Balance: 1 Client: 97 Date : 24/06/2017 10:42 Vendeur : 6 Rayon : 1 - Num Ticket : 217 kg € /kg € CERISE O, 995 4, 50 4, 48 TOTAL: 4.48 1 transaction(s) 1 Article(+) 

@@ -1,0 +1,3 @@
+[OCR_toInput] Karolus, etc. Notum facimus universis, presentibus et futuris, nos infrascriptas carissimi Domini et genitoris nostri vidisse litteras, formam continentes subsequenes Karolus, Dei gracia Francorum rex. Notum facimus universis
+[OCR_aligned] Karolus, etc. Notum facimus universis, presentibus et futuris, nos infrascriptas carissimi Domini et genitoris nostri vidisse litteras, formam continentes subsequen@es @Karolus, Dei gracia Francorum rex. Notum facimus universis
+[ GS_aligned] Karolus, etc. Notum facimus universis, presentibus et futuris, nos infrascriptas carissimi domini et genitoris nostri vidisse litteras, formam continentes subsequentem :Karolus,@@@@@@@@@@@@@@@@@@@@@ @e@@@@@t@@@@@c@@@… @@@@@@@@@

@@ -1,0 +1,3 @@
+[OCR_toInput] //34~
+[OCR_aligned] //34~
+[ GS_aligned] @@@@@

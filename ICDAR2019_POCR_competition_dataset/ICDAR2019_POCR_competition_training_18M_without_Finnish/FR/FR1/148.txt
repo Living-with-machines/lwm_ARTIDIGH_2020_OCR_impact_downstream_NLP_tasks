@@ -1,0 +1,3 @@
+[OCR_toInput] Johannes, Dei gratia, Francorum rex. dilectis et fidelibus gentibus compotorum et thesaurai nostris Parisinsis ac senescallo Pictavensi et collectorus decimarum in promucia, Burdegalavensi deputato, vel eorum
+[OCR_aligned] Johannes, Dei gratia, Francorum rex. dilectis et fidelibus gentibus compotorum et thesaura@@i@ nostris Parisinsis ac senescallo Pictavensi@ et collectorus decimarum in pro@mucia, Burdegalavensi deputato, vel eorum
+[ GS_aligned] Johannes, Dei gratia, Francorum rex. Dilectis et fidelibus gentibus eompotorum et thesaurariis nostris Parisius@, ac senescallo Pictavensi, et collector@i decimarum in provincia@ Burdegalanensi deputato, vel eorum

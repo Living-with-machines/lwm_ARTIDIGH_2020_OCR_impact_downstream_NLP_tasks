@@ -1,0 +1,3 @@
+[OCR_toInput] Par le roy, à la relacion des gens de son grant coused Sacierges Vist Contentor. J. Du Bran.
+[OCR_aligned] @@Par le roy, à la relacion des gens de son grant couse@@d Sacierges@@@@ Vis@t Contentor. J. Du Bran.@
+[ GS_aligned] : Par le roy, à la relacion des gens de son grant Conseil. Sacierges. —  Visa. Contentor. J. Du@@ban. 

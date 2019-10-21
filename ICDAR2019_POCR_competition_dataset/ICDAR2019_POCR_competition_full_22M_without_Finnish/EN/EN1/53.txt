@@ -1,0 +1,3 @@
+[OCR_toInput] FRIER RUSH
+[OCR_aligned] @FRIER RUSH@
+[ GS_aligned]  FRIER RUSH.

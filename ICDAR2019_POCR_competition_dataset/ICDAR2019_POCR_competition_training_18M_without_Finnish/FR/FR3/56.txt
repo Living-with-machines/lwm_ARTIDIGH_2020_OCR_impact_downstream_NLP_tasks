@@ -1,0 +1,3 @@
+[OCR_toInput] VEND-D-01 1 1 M H R 1 7 t /10 0 g 3.50 IRA. 1 TOI, 
+[OCR_aligned] VEND-D-01@@@ 1 1 @M@ H R 1@@ 7 @t @/1@0@@@ 0@@@@ g 3.50@@@@@ IRA. 1 TO@@@@@@@I, 
+[ GS_aligned] VEND-D-01 N. 2 1 1MAR1 7 17:32 kg €/100g € 0.225 N 3.50 7.88 TRA. 1 TOT. € 7.88 

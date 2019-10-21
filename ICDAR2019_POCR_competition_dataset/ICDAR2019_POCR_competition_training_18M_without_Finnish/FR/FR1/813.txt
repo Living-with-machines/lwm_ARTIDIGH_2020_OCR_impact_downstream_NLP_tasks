@@ -1,0 +1,3 @@
+[OCR_toInput] nostro et in omnibus quolibet alieno. Datum apud locum des Forgis, in mense febonarii, anno Domini millesimo c octuage simo, et regni nostri vicesimo. sic signatum Loys.Per regem. S. de Marle. — Visa. Contentor. Texier.
+[OCR_aligned] nostro et in omnibus quolibet alieno. Datum apud locum des Forgis, in mense febonarii, anno Domini millesimo @@@c@@ octuage simo, et regni nostri vicesimo. sic signatum@@ Loys.@Per regem. S. de Marle. — Visa. Contentor. Texier.
+[ GS_aligned] nostro et in omnibus@@@@@@@@@ alieno. Datum apud locum des Forges, in mense februarii@ anno Domini millesimo ccccmo octuage@simo@ et regni nostri vicesimo.@Sic signatum : Loys. Per regem, G. de Marle. — Visa. Contentor. Texier.

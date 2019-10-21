@@ -1,0 +1,3 @@
+[OCR_toInput] U E N D - A - 0 1 0 6 M A II 7 0 0 N IM. I TOT. 
+[OCR_aligned] @@@@@@U E N@ D @- A@ - 0@@@@ @1 @0 6 M @A II 7 @@@@0 @@@0 N IM. I TOT@@@@@.@@ 
+[ GS_aligned] VEND–A–01 N. 9 06MAI17 09:53 kg €/kg € 0.200 N 26.00 5.20 @TRA. 1 TOT. € 5.20 

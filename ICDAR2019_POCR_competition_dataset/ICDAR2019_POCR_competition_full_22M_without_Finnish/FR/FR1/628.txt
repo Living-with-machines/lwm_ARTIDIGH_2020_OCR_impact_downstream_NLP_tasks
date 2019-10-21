@@ -1,0 +1,3 @@
+[OCR_toInput] Per dominum regem
+[OCR_aligned] Per dominum regem@@@@@@@@@@@
+[ GS_aligned] Per dominum regem, Barrière.

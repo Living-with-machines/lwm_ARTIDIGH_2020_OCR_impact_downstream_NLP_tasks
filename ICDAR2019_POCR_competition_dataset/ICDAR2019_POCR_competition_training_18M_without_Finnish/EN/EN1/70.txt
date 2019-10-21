@@ -1,0 +1,3 @@
+[OCR_toInput] . -I t: r.1 ' ■■ ' • si > f ' 1 v "; . .
+[OCR_aligned] . -I t: r.1 ' ■■ ' • si > f ' 1 v "; . .
+[ GS_aligned] @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@

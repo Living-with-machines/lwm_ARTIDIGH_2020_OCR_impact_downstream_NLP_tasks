@@ -1,0 +1,3 @@
+[OCR_toInput] CHEZ ABDEL TEL 06 99 00 20 44 Balance: 2 Client: 73 Date : 19/06/2017 11:11 Vendeur: 1 ABDEL Rayon : 1 - Num Ticket : 80 kg € /kg € COURGETTE 2, 310 1, 95 4, 50 CERISE r, 560 4, 50 2, 52 TOTAL 7,02 2 transaction(s) 2 Article(+) L ▲ 
+[OCR_aligned] CHEZ ABDEL TEL 06 99 00 20 44 Balance: 2 Client: 73 Date : 19/06/2017 11:11 Vendeur: 1 ABDEL Rayon : 1 - Num Ticket : 80 kg € /kg € COURGETTE 2, 310 1, 95 4, 50 CERISE r, 560 4, 50 2, 52 TOTAL 7,02 2 transaction(s) 2 Article(+) L ▲ 
+[ GS_aligned] CHEZ ABDEL TEL 06 99 00 20 44 Balance: 2 Client: 73 Date : 19/06/2017 11:11 Vendeur: 1 ABDEL Rayon : 1 - Num Ticket : 80 kg € /kg € COURGETTE 2,@310 1,@95 4,@50 CERISE @0 560 4,@50 2,@52 TOTAL 7,02 2 transaction(s) 2 Article(+)@@@@@

@@ -1,0 +1,3 @@
+[OCR_toInput] % m iff * %; *v J t
+[OCR_aligned] % m iff * %; *v J t
+[ GS_aligned] @@@@@@@@@@@@@@@@@@@

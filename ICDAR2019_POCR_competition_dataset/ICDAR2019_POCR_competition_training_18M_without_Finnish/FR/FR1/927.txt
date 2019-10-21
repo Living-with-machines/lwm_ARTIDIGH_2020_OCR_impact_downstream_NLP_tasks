@@ -1,0 +1,3 @@
+[OCR_toInput] jour de mrs, l'an mil ccc. quarante
+[OCR_aligned] jour de m@rs, l'an mil ccc. quarante@
+[ GS_aligned] jour de mars, l'an mil ccc. quarante.

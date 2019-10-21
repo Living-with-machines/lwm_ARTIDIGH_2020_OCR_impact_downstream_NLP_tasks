@@ -1,0 +1,3 @@
+[OCR_toInput] iOùj
+[OCR_aligned] iOùj
+[ GS_aligned] @@@@
