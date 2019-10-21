@@ -1,0 +1,2 @@
+# OCR assessment, ARTDIGH paper
+
