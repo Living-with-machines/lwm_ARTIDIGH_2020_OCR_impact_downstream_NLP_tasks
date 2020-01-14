@@ -28,7 +28,13 @@ conda activate ocr_eval
 ```
 
 ## Contents
-TODO
+
+### 1) create_trove_dataframe.ipynb
+### 2) dictionary_lookup_word_errorrate.ipynb
+### 3) aligning_trove.ipynb
+### 4) alignment_assessment.ipynb
+### 5) linguistic_processing_trove.ipynb
+
 
 ## Acknowledgements
 
