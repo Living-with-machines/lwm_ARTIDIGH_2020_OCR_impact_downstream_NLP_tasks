@@ -1,3 +1,0 @@
-[OCR_toInput] Poiteurs Guillaume Larcevesque Hugues Larcevesque Gieffroy de Lesignen, Aymar de Valence Gieffroy de Ponz, seigneur de Bergerac, le seigneur de Mirmande.
-[OCR_aligned] Poi@te@urs@ Guillaume Larcevesque@ Hugues Larcevesque@ Gieffroy de Lesignen@, Aymar de Valence@ Gieffroy de Ponz, seigneur de Bergerac@, le seigneur de Mirmande.
-[ GS_aligned] Poittevins. Guillaume Larcevesque. Hugues Larcevesque. Gieffroy de Lesignen . Aymar de Valence. Gieffroy de Ponz, seigneur de Bergerac . Le seigneur de Mirmande.

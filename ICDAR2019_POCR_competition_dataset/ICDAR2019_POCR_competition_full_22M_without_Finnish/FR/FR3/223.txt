@@ -1,3 +1,0 @@
-[OCR_toInput] 'le jardin de Tonnay' PIERRE MANOIS TONNAY CHARENTE Balance: 3 Client: 142 Hat, . 14/06/2017 12:53 Vemiruf 8 BAPTISTE Num I icket : 291 kg € /kg € CERISE 0,160 6,50 1,04 TOTAL: 1,04 1 transaction(s) 1 Article(+) 
-[OCR_aligned] @'le jardin de Tonnay@' PIERRE MANOIS TONNAY CHARENTE Balance: 3 Client: 142 Hat, . 14/06/2017 12:53 Ve@@miruf 8 BAPTISTE Num I icket : 291 kg € /kg € CERISE 0,160 6,50 1,04 TOTAL: 1,04 1 transaction(s) 1 Article(+) 
-[ GS_aligned] \'le jardin de Tonnay\' PIERRE MANOIS TONNAY CHARENTE Balance: 3 Client: 142 Date : 14/06/2017 12:53 Vendeur : 8 BAPTISTE Num @Ticket : 291 kg € /kg € CERISE 0,160 6,50 1,04 TOTAL: 1,04 1 transaction(s) 1 Article(+) 

@@ -1,3 +1,0 @@
-[OCR_toInput] \ va H A A M L IJ S X' Mr. J. rendorp, Heer van Mar quitte, enz. Mr. w. g. dedel, Salomonsz. Mr. N. FAAS. Mr. m, straalman, Heer van Duist, enz. A. DEDE L. Mr. F. ALEWIJN. OUD-BURGEMEESTERS DEK. STAÖ AMSTERDAM. 1 D
-[OCR_aligned] \ va H A@@@@ A M L IJ @S X' Mr. J. rendorp, Heer van M@@@@@ar @quitte, @@@@@@enz. Mr. w. g. dedel, @Salomonsz. Mr. N. FAAS. Mr. m, straalman, Heer van Duist, enz. A. DEDE L. Mr. F. ALEWIJN. OUD-BURGEMEESTERS DEK. STAÖ AMSTERDAM. 1 D
-[ GS_aligned]  LII NAAMLĲST. Mr. N. FAAS. Mr. F. @ALEWĲN. OUD-BURGEMEESTERS DER STAD AMSTERDAM. Mr. J. @RENDORP, Heer van Marquette, enz. Mr. M. STRAALMAN, Heer van Duist, enz. A. DEDE@L. Mr. W. @@@@@@G. @@D@@@@@@@@@@@E@@@DEL, S@@@@@alomonsz.@@@@

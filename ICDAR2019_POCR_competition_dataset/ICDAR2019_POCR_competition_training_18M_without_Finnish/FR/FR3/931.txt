@@ -1,3 +1,0 @@
-[OCR_toInput] HUI TRES-ROUMEGOUS 0546411008 NUMERO SANI 17058073 Date : 13/12/2016 12:30 Vendeur : 3 Num Ticket : 40 kg € /kg € SPECIALES N4 0,410 6,20 2, 54 TOTAL: 2,54 Dont TVA 5,50%: 0,13 G Total TVA : 0,13 € Total HT : 2,41 € 1 transaction(s) 1 ArticleM 
-[OCR_aligned] HUI TRES-ROUMEGOUS 0546411008 NUMERO SANI 17058073 Date : 13/12/2016 12:30 Vendeur : 3 Num Ticket : 40 kg € /kg € SPECIALES N4 0,410 6,20 2, 54 TOTAL: 2,54 Dont TVA 5,50%: 0,13 G Total TVA : 0,13 € Total HT : 2,41 € 1 transaction(s) 1 Article@@M 
-[ GS_aligned] HUI@TRES-ROUMEGOUS 0546411008 NUMERO SANI 17058073 Date : 13/12/2016 12:30 Vendeur : 3 Num Ticket : 40 kg € /kg € SPECIALES N4 0,410 6,20 2,@54 TOTAL: 2,54 Dont TVA 5,50%: 0,13 € Total TVA : 0,13 € Total HT : 2,41 € 1 transaction(s) 1 Article(+) 

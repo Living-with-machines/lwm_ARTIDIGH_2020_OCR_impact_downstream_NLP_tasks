@@ -1,3 +1,0 @@
-[OCR_toInput] MERCI et à très BIENTOT Unité U - Balance: O - Ticket: 131 DATE:02/07/2017 HEURE: 14:23 VENDEUR: 3 kg €/kg € Unît* 2 Piece + 2,00 Pièce + 2,00 0,555 2,80 1,55 Unit* 0 0,500 2,80 1,40 4 Articles TOTAL: Me r c i de vot re v i s i te 
-[OCR_aligned] MERCI et à très BIENTOT Unité@ U - Balance: O - Ticket: 131 DATE:@02/07/2017 HEURE: 14:23 VENDEUR: 3 kg €/kg € Unît* 2 Piece + 2,00 Pièce + 2,00 0,555 2,80 1,55 Unit* 0 0,500 2,80 1,40 4 Articles TOTAL: @@Me r c i de vot re v i s i te 
-[ GS_aligned] MERCI et à très BIENTOT Unité: 0 – Balance: O – Ticket: 131 DATE: 02/07/2017 HEURE: 14:23 VENDEUR: 3 kg €/kg € Unite 2 Piece + 2,00 Pièce + 2,00 0,555 2,80 1,55 Unite 0 0,500 2,80 1,40 4 Articles TOTAL: 6.95 Merci de vot@re v@i@s@i@te@

@@ -1,3 +1,0 @@
-[OCR_toInput] LE RECIF 0W0 PLAGES DES MINIMES 22/10/2016 Facture:83704 Trans J632 Terni: 1 Vous avez été servi par: Nicolas CHOCOLAT 2x 3.50= 7.00 ♦TOTAL = 7.00€ *[H.T 10%: TVA 10%:] 6.36€ 0.64€ * Pm -> mi b# > 7.00€ 
-[OCR_aligned] LE RECIF @@@@@@@0W0 PLAGES DES MINIMES 22/10/2016 Facture:83704 Trans@ J632 Terni: 1 Vous avez été servi par: Nicolas CHOCOLAT 2x 3.50= 7.00 ♦TOTAL = 7.00€ *[H.T 10%: TVA 10%:] 6.36€ 0.64€ * P@@m -> @@@mi @b# > 7.00€ 
-[ GS_aligned] LE RECIF RESTAURANT PLAGES DES MINIMES 22/10/2016 Facture:83704 Trans:83632 Ter@m: 1 Vous avez été servi par: Nicolas CHOCOLAT 2x 3.50= 7.00 *TOTAL = 7.00€ *[H.T 10%: TVA 10%:] 6.36€ 0.64€ * Payé -> TOTAL BAR > 7.00€@

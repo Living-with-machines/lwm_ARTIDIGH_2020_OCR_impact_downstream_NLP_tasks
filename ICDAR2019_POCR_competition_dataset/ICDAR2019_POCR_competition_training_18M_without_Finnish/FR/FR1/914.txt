@@ -1,3 +1,0 @@
-[OCR_toInput] Ce sont les noms d'iceus, qui doivent estre ma dez aus octaves de depanche secunde foiz, li quelstint contremande, au trys semaines de ceste s Jehan prochain l'an xvii.
-[OCR_aligned] Ce sont les noms d'iceus, qui doivent estre ma@ dez aus octaves de @depanc@@he@ secunde foiz, li quelstint contremande, au@ tr@ys semaines de ceste @s Jehan prochain@@ l'an xvii.
-[ GS_aligned] Ce sont les noms d'iceus@ qui doivent estre man dez aus octaves de Panthecoste, secunde foiz, li quel sont contremand@é aus troys semaines de ceste S. Jehan prochaine, l'an xvii.

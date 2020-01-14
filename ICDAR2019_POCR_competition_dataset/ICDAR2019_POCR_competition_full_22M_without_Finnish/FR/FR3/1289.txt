@@ -1,3 +1,0 @@
-[OCR_toInput] DANDONNEAU DOMINIQUE FRUITS ET LEGUMES MARCHE CENTRAL Date : 11/03/2317 09: 46 Di vers 1, 300 4, 80 6, 24 Divers 1 Art x 1, 80 1, 80 TOTAL: 2 transact:on(s) 2 Articlef- ) LA ROCHELLE 
-[OCR_aligned] DANDONNEAU DOMINIQUE FRUITS ET LEGUMES MARCHE CENTRAL Date : 11/03/2317 09: 46 Di vers@@@@@@@@@@@ 1, 300 4, 80 6, 24 Divers 1 Art x 1, 80 1, 80 TOTAL:@@@@@ 2 transact:on(s) 2 Articlef- ) LA ROCHELLE 
-[ GS_aligned] DANDONNEAU DOMINIQUE FRUITS ET LEGUMES MARCHE CENTRAL Date : 11/03/2017 09:@46 Di@vers kg € /kg € 1,@300 4,@80 6,@24 Divers 1 Art x 1, 80 1, 80 TOTAL: 8,04 2 transaction(s) 2 Article(-@) LA ROCHELLE 

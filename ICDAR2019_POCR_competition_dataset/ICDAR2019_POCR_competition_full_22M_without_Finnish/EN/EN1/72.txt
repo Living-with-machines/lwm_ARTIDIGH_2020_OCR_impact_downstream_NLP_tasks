@@ -1,3 +1,0 @@
-[OCR_toInput] t r'""\ i r
-[OCR_aligned] t r'""\ i r
-[ GS_aligned] @@@@@@@@@@@

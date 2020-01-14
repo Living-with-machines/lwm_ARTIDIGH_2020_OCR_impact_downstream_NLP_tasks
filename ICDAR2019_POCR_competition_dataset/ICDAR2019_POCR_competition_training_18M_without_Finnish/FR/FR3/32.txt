@@ -1,3 +1,0 @@
-[OCR_toInput] 37 CACHET DE L'ÉTABLISSEMENT A AUX DELICES BRETONS 45 rue du Maréchal Joff; e 44000 NANTES AlObjlOR yl Nombre de repas : _ TOTAL PrixTTC Dont TVA à. AO % : _ _ OC € Dont TVA à.. _€ Dont TVA à.. _€ 
-[OCR_aligned] 37 CACHET DE L'ÉTABLISSEMENT A AUX DELICES BRETONS 45@ rue du Maréchal Joff; e 44000 NANTE@@@@@@@@@@@@@@@@@@@@@@S@@@@@@@@@@@@@@@@@@@@@@@@ AlObjlOR @yl@@@@@@@@@@@ Nombre de repas : _ TOTAL PrixTTC@@@@@@@ Dont TVA à. AO % : _ _ OC € Dont TVA à.. @_€ Dont TVA à.. @_€ 
-[ GS_aligned] 37 CACHET DE L’ÉTABLISSEMENT@@ AUX DELICES BRETONS 45, rue du Maréchal Joff@re 44000 NANTES Tél. 02 28 24 00 25 Siret : 511 231 813 00011 APE 5610 ? le 1/06/2017 Nombre de repas : 1 TOTAL PrixTTC : 11 € Dont TVA à@ 10 % :@@@@ @1 € Dont TVA à % : € Dont TVA à % : € 

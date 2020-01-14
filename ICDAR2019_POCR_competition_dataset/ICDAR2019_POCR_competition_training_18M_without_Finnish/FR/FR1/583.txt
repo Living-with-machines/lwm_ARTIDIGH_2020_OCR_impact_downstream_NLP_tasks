@@ -1,3 +1,0 @@
-[OCR_toInput] anno Domini millesimo ccc. vicesimo sexto, mense maii. Par vos. GBuyn.
-[OCR_aligned] @@@@@@@@@@@@@@@@anno Domini millesimo ccc. vicesimo sexto, mense maii. Par vos. G@@Buyn.
-[ GS_aligned] Actum Parisius, anno Domini millesimo ccc. vicesimo sexto, mense maii. Per vos. G. Buyn.

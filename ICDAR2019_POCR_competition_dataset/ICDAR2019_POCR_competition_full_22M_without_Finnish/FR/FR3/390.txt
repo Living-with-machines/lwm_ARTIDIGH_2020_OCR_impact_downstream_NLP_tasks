@@ -1,3 +1,0 @@
-[OCR_toInput] i e AAI LÏ Ah. R ; E TEL 02 I : 37 RUE DE hU■EL v 1LLE ,2:31 V1-TUÜ78 26/MAR- 17 Art. ;9 & (',9 L 14.90 O . O -J 1 O 425 O . O -J T OT AL 6 - i • j . "I. J ( 1) r- R '7: X C' E •./ ci i ' X S % T tz. 
-[OCR_aligned] @i e AAI@ LÏ Ah. R ; E TEL 02@@@@@@ @I @: 37 RUE DE hU■EL v 1LLE ,2:31 V1-TUÜ78 26/MAR- 17 Art. ;9 & (',9 L 14.90 O . O -J 1 O 425 O .@@ O -J T OT AL 6 - i • j . "I. J ( 1) r- R '7: X C' E •./ ci i ' X S % T tz. 
-[ GS_aligned] BOUCHERIE PHILIBERTINE TEL 02 40 78 71 14 37 RUE DE HOTEL@@ @@DE@@@@@@ V@@@ILLE 26/MAR@/17 @12:31: V1-T0078 Art. kg €/kg € 1 0 425 14.90 6.33 T OT@AL 6@@@@@@@@@@@@@.33 (@1) @MER@@@@@@@C@@I @DE @VOTRE VIS@@IT@@@@E

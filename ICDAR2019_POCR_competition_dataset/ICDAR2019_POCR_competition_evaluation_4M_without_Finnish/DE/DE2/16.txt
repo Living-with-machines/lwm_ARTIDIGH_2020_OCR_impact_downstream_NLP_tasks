@@ -1,3 +1,0 @@
-[OCR_toInput] ri'/
-[OCR_aligned] ri'/
-[ GS_aligned] @@@@

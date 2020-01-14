@@ -1,3 +1,0 @@
-[OCR_toInput] Johannes, Dei gratia Francorum rex. Notum facimus universis, tam presentibus quam futuris, nos infrascriptas litteras vvidisse, tenorem que sequitur continentes Guy deNelle, sire de Mello, marechal de France, lieutenant du roy nostre sire
-[OCR_aligned] Johannes, Dei gratia@ Francorum rex. Notum facimus universis, tam presentibus quam futuris, nos infrascriptas litteras vvidisse, tenorem que sequitur continentes @Guy de@Nelle, sire de Mello@, mare@chal de France, lieutenant du roy nostre sire
-[ GS_aligned] Johannes, Dei gratia, Francorum rex. Notum facimus universis, tam presentibus quam futuris, nos infrascriptas litteras @vidisse, tenorem que sequitur continentes :Guy de Nelle, sire de Mello , mareschal de France, lieutenant du roy nostre sire

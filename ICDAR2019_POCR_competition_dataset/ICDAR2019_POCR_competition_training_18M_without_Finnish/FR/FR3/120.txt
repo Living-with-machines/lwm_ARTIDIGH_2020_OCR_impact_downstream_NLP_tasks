@@ -1,3 +1,0 @@
-[OCR_toInput] L LVjüC RI CR rue du Moulin nu Vuiwmiu mm i ww 1.01 1D.Ü3 Vendeci 09/12/2016 *********** .10 VU , AGI • U ' 'Y, mki 11. OU UJR sml T/. 1b 1 R! Especes TVA a 10.00 MERCI 11 VOTRE V! 1 V! H 
-[OCR_aligned] @@L LVjüC @RI@@@ @@CR rue du Moulin nu V@uiwm@@iu mm @@i ww 1.01 1D.Ü3 Vende@@@@@ci 09/12/2016 *********** .10 VU , AG@I • U ' 'Y, @@mki 11. OU UJR s@ml T/. 1b @@1 R@@! Especes@@@@@@@@@@@@@@@ TVA a 10.@0@@@@@@@0@@@@ MERCI 11 VOTRE V@@@@! @@@@1 @@V! H 
-[ GS_aligned] TICKET DE CAISSE RTCR rue du Moulin de Vendôme 17140 LAGORD E.01 ID.03 Vendeur:2002 09/12/2016 @@@@@@18:50 @10 V@@OYAGES 11.00 EUR TOTAL 11.@00 EUR soit 72.@16 FRF RECU Espèces 11.00 EUR Dont TVA à 10.00% : 1.10 EUR MERCI DE VOTRE VISITE BONNE JOURNEE

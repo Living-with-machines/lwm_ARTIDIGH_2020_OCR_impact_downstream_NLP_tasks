@@ -1,3 +1,0 @@
-[OCR_toInput] IES SERRES DES ANGLOIS 17690 ANGOULINS TEL 06 26 18 21 22 Balance: 2 Client: 61 Vendeur : 3 MARYLINE Rayon : 1 - Num Ticket : 336 kg € /kg € POIVRON O,280 4,20 1,18 CONCOMBRE 1 Art x 1,50 1,50 TOTAL: 2,68 2 transaction(s) 2 Article(+) 
-[OCR_aligned] IES SERRES DES ANGLOIS 17690 ANGOULINS TEL 06 26 18 21 22 Balance: 2 Client: 61 Vendeur : 3 MARYLINE Rayon : 1 - Num Ticket : 336 kg € /kg € POIVRON O,280 4,20 1,18 CONCOMBRE 1 Art x 1,50 1,50 TOTAL: 2,68 2 transaction(s) 2 Article(+) 
-[ GS_aligned] LES SERRES DES ANGLOIS 17690 ANGOULINS TEL 06 26 18 21 22 Balance: 2 Client: 61 Vendeur : 3 MARYLINE Rayon : 1 - Num Ticket : 336 kg €@/kg € POIVRON O,280 4,20 1,18 CONCOMBRE 1 Art x 1,50 1,50 TOTAL: 2,68 2 transaction(s) 2 Article(+) 

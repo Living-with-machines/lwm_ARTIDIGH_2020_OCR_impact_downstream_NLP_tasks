@@ -1,3 +1,0 @@
-[OCR_toInput] 4 3 F 
-[OCR_aligned] 4 3 F 
-[ GS_aligned] @@@@@?

@@ -1,3 +1,0 @@
-[OCR_toInput] Qté x Prix Unit PASTEQ ZEBR COLI 7,545 kg x Carte bleue 05,50% 0,416 Ticret 1063327 Le0#7-20 Laisse 2 article(s) MERCI DE VOTRE VISITE 
-[OCR_aligned] @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@Qté x Prix Unit@@@@@@@@@@@@@@@@@@@@@@ PASTEQ ZEBR COLI@@@@@@ 7,545 kg x@@@@@@@@@@@@@@@@@@@@@ Carte bleue@@@@@@@@@@@@@@@@@@@@@@ 05,50% 0,4@@@@@@@@@@@@16 Ticret 1063327 Le0@@#7-20@@@@@@@@@@@ @@@@L@@@@aisse@@@ 2 article(s) MERCI DE VOTRE VISITE 
-[ GS_aligned] PROVENC\'HALLES 84700 SORGUES  Libellé Total Qté x Prix Unit MELON 1,50€ 1 X 1,50€ PASTEQ ZEBR COLI 6,41€ 7.545 kg x 0,85€/kg TOTAL 7,91€ Carte bleue 7,91€ TAUX TVA HT TTC 05.50% 0,41€ 7,50€ 7,91€ Ticket@:063327 Le04-07-2017 13:32:45 CORALIE Caisse: 1 2 article(s) MERCI DE VOTRE VISITE 
