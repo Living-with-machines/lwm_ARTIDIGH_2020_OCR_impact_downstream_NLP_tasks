@@ -6,12 +6,15 @@ This repository provides underlying code for the conference paper *'Assessing th
 TODO
 
 ## What is this?
-This repository contains code underpining the conference paper *'Assessing the Impact of OCR Quality on Downstream NLP Tasks'.* This paper assess the impact of OCR quality on a variety of downsteam tasks using a dataset of OCR'd articles from 19th Century newspapers. This repository includes code for downloading and processing the data into a [Pandas](https://pandas.pydata.org/) dataframe and code for each section of the paper (outlined further below). 
+This repository contains code underpinning the conference paper *'Assessing the Impact of OCR Quality on Downstream NLP Tasks'.* This paper assesses the impact of OCR quality on a variety of downstream tasks using a dataset of OCR'd articles from 19th Century newspapers. This repository includes code for downloading and processing the data into a [Pandas](https://pandas.pydata.org/) Dataframe and code for each section of the paper (outlined further below). 
 
 ## Setup 
 The majority of the analysis is done in Python 3. You can create an environment for running this code using the Anaconda package manager and the environment file includes in this repository. 
 
-### Install the required packages 
+### Install the required packages
+
+**Note** While Conda environments are *largely* operating system agnostic we have only tested this environment on macOS. 
+
 
 1. Install Anaconda following [these instructions](https://docs.anaconda.com/anaconda/install/).
 
@@ -27,9 +30,16 @@ conda env create -f environment.yml
 conda activate ocr_eval
 ```
 
+
 ## Contents
 
-### 1) create_trove_dataframe.ipynb
+All of the dependencies for these notebooks should be covered by using the above Conda Environment. 
+
+### 1) [create_trove_dataframe.ipynb](create_trove_dataframe.ipynb)
+
+- This notebook covers the steps required to download Overproof data and process this data into a Pandas Dataframe. 
+ 
+
 ### 2) dictionary_lookup_word_errorrate.ipynb
 ### 3) aligning_trove.ipynb
 ### 4) alignment_assessment.ipynb
