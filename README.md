@@ -47,8 +47,14 @@ This notebook
 - plots dictionary lookup against string similarity between OCR'd and human corrected version of the text
 - produces plots comparing Jaccard and Levenstein distance similarity
 
-### 3) aligning_trove.ipynb
-### 4) alignment_assessment.ipynb
+### 3) aligning_trove.ipynb(aligning_trove.ipynb)
+
+This notebook performs allignement between the two version of the text. Further explanation of the approach taken is outlined in the notebook. 
+
+### 4) alignment_assessment.ipynb(alignment_assessment.ipynb)
+
+This notebook performs an evaluation of the alignments created in the previous notebook. 
+
 ### 5) linguistic_processing_trove.ipynb
 
 
