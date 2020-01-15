@@ -78,7 +78,7 @@ This notebook performs and evaluation of the topic models created in the above n
 
 ### Language model notebooks 
 
-- These notebooks rely on having a pre-trained LM to fine-tune. This language model will be released alongside a forthcoming paper. This notebook will be updated once this has been released. 
+The notebooks for the Language Model evaluation rely on having a pre-trained Language Model to fine-tune. This language model will be released alongside a forthcoming paper. This notebook will be updated once this has been released with instructions on how to fine tune the language model. 
 
 ## Acknowledgements
 
