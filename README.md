@@ -37,10 +37,15 @@ All of the dependencies for these notebooks should be covered by using the above
 
 ### 1) [create_trove_dataframe.ipynb](create_trove_dataframe.ipynb)
 
-- This notebook covers the steps required to download Overproof data and process this data into a Pandas Dataframe. 
-- This notebook will take some time to run the first time. The notebook will output the Pandas Dataframe as a [pickle file](https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.to_pickle.html). This will allow for quicker loading of the Dataframe when used in the subsequent notebooks. 
+This notebook
+- covers the steps required to download Overproof data and process this data into a Pandas Dataframe. 
+- it will take some time to run the first time. The notebook will output the Pandas Dataframe as a [pickle file](https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.to_pickle.html). This will allow for quicker loading of the Dataframe when used in the subsequent notebooks (it will probably be easiest to 'run all cells' and return to the notebook a few hours later)
 
 ### 2) [dictionary_lookup_word_errorrate.ipynb](dictionary_lookup_word_errorrate.ipynb) 
+
+This notebook 
+- plots dictionary lookup against string similarity between OCR'd and human corrected version of the text
+- produces plots comparing Jaccard and Levenstein distance similarity
 
 ### 3) aligning_trove.ipynb
 ### 4) alignment_assessment.ipynb
