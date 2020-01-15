@@ -2,9 +2,6 @@
 
 This repository provides underlying code for the conference paper *'Assessing the Impact of OCR Quality on Downstream NLP Tasks'*
 
-## Citation
-TODO
-
 ## What is this?
 This repository contains code underpinning the conference paper *'Assessing the Impact of OCR Quality on Downstream NLP Tasks'.* This paper assesses the impact of OCR quality on a variety of downstream tasks using a dataset of OCR'd articles from 19th Century newspapers. This repository includes code for downloading and processing the data into a [Pandas](https://pandas.pydata.org/) Dataframe and code for each section of the paper (outlined further below). 
 
