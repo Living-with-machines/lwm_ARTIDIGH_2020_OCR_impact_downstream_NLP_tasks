@@ -13,8 +13,10 @@ The majority of the analysis is done in Python 3. You can create an environment 
 
 ### Install the required packages
 
-**Note** While Conda environments are *largely* operating system agnostic we have only tested this environment on macOS. 
 
+**Note** While Conda environments are *largely* operating system agnostic we have only tested this environment on macOS. The [pandarallel](https://github.com/nalepae/pandarallel) python package which we use for parallelizing some steps in the notebooks only works on windows if executed from the [Windows Subsystem for Linux (WSL)](https://docs.microsoft.com/en-us/windows/wsl/install-win10). If you want to run the notebooks from Windows directly this should be possible by replacing references to ```parallel_apply``` with ```apply```. This will result in the default Pandas apply function being utilised. This will result in these functions running more slowly. 
+
+---
 
 1. Install Anaconda following [these instructions](https://docs.anaconda.com/anaconda/install/).
 
@@ -65,6 +67,10 @@ This notebook performs an assesment of the impact of OCR on:
     - Geopolitical entities: f-score (by quality band)
     - Dates: f-score (by quality band)
 - Dependency parsing
+
+### 6) [task_topic_modelling.ipynb](task_topic_modelling.ipynb) 
+
+### 7) [task_topic_modelling-joint_plots.ipynb](task_topic_modelling-joint_plots.ipynb) 
 
 
 ## Acknowledgements
