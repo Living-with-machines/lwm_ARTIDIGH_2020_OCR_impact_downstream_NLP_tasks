@@ -17,16 +17,16 @@ The majority of the analysis is done in Python 3. You can create an environment 
 
 1. Install Anaconda following [these instructions](https://docs.anaconda.com/anaconda/install/).
 
-2. Create `ocr_eval` environment:
+2. Create `ocr-evaluation` environment:
 
 ```bash
 conda env create -f environment.yml
 ```
 
-3. Activate `ocr_eval` environment:
+3. Activate `ocr-evaluation` environment:
 
 ```bash
-conda activate ocr_eval
+conda activate ocr-evaluation
 ```
 
 
