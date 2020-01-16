@@ -65,11 +65,11 @@ This notebook assesses the impact of OCR on:
     - Dates: f-score (by quality band)
 - Dependency parsing
 
-### 6) [task_topic_modelling.ipynb](task_topic_modelling.ipynb) 
+### 6) [topic_modelling_main.ipynb](topic_modelling_main.ipynb) 
 
 This notebook goes through the steps of creating topic models using Latent  Dirichlet  Allocation (LDA) using the Gensim implementation. 
 
-### 7) [task_topic_modelling-joint_plots.ipynb](task_topic_modelling-joint_plots.ipynb) 
+### 7) [topic_modelling_secondary.ipynb](topic_modelling_secondary.ipynb) 
 
 This notebook performs and evaluation of the topic models created in the above notebook. 
 
