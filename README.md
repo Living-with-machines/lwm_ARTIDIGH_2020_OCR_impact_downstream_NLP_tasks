@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/216628396.svg)](https://zenodo.org/badge/latestdoi/216628396)
+
 # Assessing the Impact of OCR Quality on Downstream NLP Tasks 
 
 This repository provides underlying code for the conference paper *'Assessing the Impact of OCR Quality on Downstream NLP Tasks'*
